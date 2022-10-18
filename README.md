@@ -1,2 +1,2 @@
 # Simple-Register-login-logout-System
-Simple Register &amp; login Website Created Using html &amp; php &amp; MySql
+<h3>Simple Register,login,logout System Created Using php & MySql </h3>
